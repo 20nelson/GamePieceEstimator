@@ -1,0 +1,1 @@
+data class Alliance(val team1: String, val team2: String, val team3: String, val hatchScore: Int, val cargoScore: Int)
